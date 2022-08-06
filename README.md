@@ -1,1 +1,2 @@
 # odin-recipes
+I will be creating a website all about recipes which will help me utilize the HTML skills I have learned. This includes boiler plate, tags, elements, and in addition to that, git commands. 
